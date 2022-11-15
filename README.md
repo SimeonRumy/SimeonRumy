@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimeonRumy
-- 👀 I’m interested in Software Engeneering 
+-  I’m a iOS Developer @CGI
 - 📚 View my poftfolio at: https://simeonrumy.github.io/Portfolio/
-- 🌱 I’m currently learning Web Development and Mobile Development 
+- 🌱 I’m currently learning Swift Concurrancy
 - 📫 Reach me on simeonrumyannikov@gmail.com
 
 <!---
