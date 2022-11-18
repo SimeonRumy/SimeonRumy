@@ -10,7 +10,6 @@
 
 <img align="left" alt="X Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Swift Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;"/>
-
 <br></br>
 
 ### Sometimes:
