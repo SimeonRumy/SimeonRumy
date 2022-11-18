@@ -4,6 +4,17 @@
 - 🌱 I’m currently learning Swift Concurrancy
 - 📫 Reach me on simeonrumyannikov@gmail.com
 
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Languages and Tools
 
 ### Daily: 
