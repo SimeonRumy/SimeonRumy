@@ -1,5 +1,6 @@
+## 📱 I’m a iOS Developer @CGI
+
 - 👋 Hi, I’m @SimeonRumy
-- 📱 I’m a iOS Developer @CGI
 - 📚 View my poftfolio at: https://simeonrumy.github.io/Portfolio/
 - 🌱 I’m currently learning Swift Concurrancy
 - 📫 Reach me on simeonrumyannikov@gmail.com
