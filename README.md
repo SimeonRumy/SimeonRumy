@@ -15,7 +15,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-[Part 3: Writing an Auto Layout DSL with Swift’s Operator Overloading and Result Builders] 🏗️ (https://medium.com/@simeonrumyannikov/part-3-writing-an-auto-layout-dsl-with-swifts-operator-overloading-and-result-builders-%EF%B8%8F-aed6e269efb5)
+[Part 3: Writing an Auto Layout DSL with Swift’s Operator Overloading and Result Builders 🏗️] (https://medium.com/@simeonrumyannikov/part-3-writing-an-auto-layout-dsl-with-swifts-operator-overloading-and-result-builders-%EF%B8%8F-aed6e269efb5)
 [Part 1 & 2: Writing an Auto Layout DSL with Swift’s Operator Overloading and Result Builders 🏗️] (https://medium.com/@simeonrumyannikov/part-1-2-writing-an-auto-layout-dsl-with-swifts-operator-overloading-and-result-builders-%EF%B8%8F-87a5a6daa0c1)
 <!-- BLOG-POST-LIST:END -->
 
