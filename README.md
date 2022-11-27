@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello World!)](https://git.io/typing-svg)
+
 ## 📱 I’m a iOS Developer @CGI
 
 - 👋 Hi, I’m @SimeonRumy
