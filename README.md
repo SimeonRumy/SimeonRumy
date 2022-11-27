@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'am+Simeon;an+iOS+Developer+at+CGI)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'am+Simeon;an+iOS+Developer+at+CGI)](https://git.io/typing-svg) -->
 
 ## 📱 I’m a iOS Developer @CGI
 
